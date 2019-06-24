@@ -1,0 +1,26 @@
+body,h1,h2,h3,h4,h5,h6 {
+	font-family: "Lato", sans-serif;
+	color: white;
+}
+body {
+	background-color: black;
+}
+.mission {
+	font-family: aidenP;
+	font-size: 12px;
+	color: white;
+}
+.secret {
+	font-family: dedsec;
+	color: white;
+	font-size: 100px;
+	text-align: center;
+}
+@font-face {
+    font-family: dedsec;
+    src: url("fonts/dedsec.ttf") format('truetype');
+		font-family: aidenp;
+		src: url("fonts/aidenP.ttf") format('truetype');
+		font-family: computorz;
+		src: url("fonts/computorz.ttf") format('truetype');
+}

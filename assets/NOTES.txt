@@ -1,0 +1,2 @@
+for opening href in new tab add;
+target="_blank"
